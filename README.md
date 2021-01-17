@@ -25,12 +25,12 @@ really a list containing a function to
 1.  set the value of the vector
 2.  get the value of the vector
 3.  set the value of the mean
-4.  get the value of the mean
+4.  get the value of the meanwehdhiofdhedjhbf
 
-<!-- -->
+<!-- -->jsumm3ejoie4
 
-    makeVector <- function(x = numeric()) {
-            m <- NULL
+    makeVector <- function(x = numeric()) {jdslfjjfdgjdslkhnlofjewjlkszdnlk/sfdnew
+            m <- NULLlllllsakqwjej3w
             set <- function(y) {
                     x <<- y
                     m <<- NULL
