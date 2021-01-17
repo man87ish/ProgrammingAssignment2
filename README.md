@@ -32,7 +32,7 @@ really a list containing a function to
     makeVector <- function(x = numeric()) {jdslfjjfdgjdslkhnlofjewjlkszdnlk/sfdnew
             m <- NULLlllllsakqwjej3w
             set <- function(y) {
-                    x <<- y
+                    x <<- ykl;asefwdjwefjoegtfw4ke
                     m <<- NULL
             }
             get <- function() x
